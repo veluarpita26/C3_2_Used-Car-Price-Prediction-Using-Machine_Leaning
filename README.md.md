@@ -50,25 +50,25 @@ Total Features: 9 (before encoding)
 
 
 
-###### **Feature Name**	      **Description**
+###### **Feature Name**:- **Description**
 
-Car\_Name	      The model/brand name of the car.
+Car\_Name:- The model/brand name of the car.
 
-Year	              The year in which the car was purchased.
+Year:- The year in which the car was purchased.
 
-Selling\_Price	      Target Variable — The price (in lakhs) the owner sold the car for.
+Selling\_Price:- Target Variable — The price (in lakhs) the owner sold the car for.
 
-Present\_Price	      The original showroom price (in lakhs) of the car when new.
+Present\_Price:- The original showroom price (in lakhs) of the car when new.
 
-Kms\_Driven	      Total kilometers the car has been driven.
+Kms\_Driven:- Total kilometers the car has been driven.
 
-Fuel\_Type	      Type of fuel used (Petrol / Diesel / CNG).
+Fuel\_Type:- Type of fuel used (Petrol / Diesel / CNG).
 
-Seller\_Type	      Whether the seller is a Dealer or an Individual.
+Seller\_Type:- Whether the seller is a Dealer or an Individual.
 
-Transmission	      Gear type of the car (Manual / Automatic).
+Transmission:- Gear type of the car (Manual / Automatic).
 
-Owner	              Number of previous owners the car had.
+Owner:- Number of previous owners the car had.
 
 
 
@@ -238,3 +238,4 @@ There are several ways to expand this research:
 
 
 * R. V. Kulkarni, K. Thopate, F. Khatib, A. Dixit, A. Ingle and A. Kanathia, "Enhancing Used Car Price Predictions with Machine Learning-Based Damage Detection," 2024 5th IEEE Global Conference for Advancement in Technology (GCAT), Bangalore, India, 2024, pp. 1-7, doi: 10.1109/GCAT62922.2024.10923877.
+
