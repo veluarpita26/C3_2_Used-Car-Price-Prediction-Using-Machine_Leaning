@@ -4,6 +4,9 @@
 
 
 
+
+
+
 ### **#Problem Statement**
 
 
@@ -13,6 +16,9 @@ Accurately estimating the resale value of a used car is a challenging task becau
 
 
 To address this issue, the aim of this project is to develop a machine learning model that predicts the Selling Price of a used car based on its historical data. By learning patterns from features such as Present Price, Kms Driven, Owner Count, Car Name, Fuel Type, Transmission Type, and Seller Type, the model provides an objective, data-driven, and accurate price estimation. This helps buyers and sellers make informed decisions and improves transparency in the used car market.
+
+
+
 
 
 
@@ -31,6 +37,9 @@ To address this issue, the aim of this project is to develop a machine learning 
 4.The best model to use for real-world deployment in car valuation.
 
 5.To develop an interpretable and accurate ML-based prediction system.
+
+
+
 
 
 
@@ -82,6 +91,9 @@ The dataset is used to train a machine learning model to accurately predict the 
 
 
 
+
+
+
 ##### **#Model used**
 
 
@@ -115,6 +127,9 @@ Chosen as the final model due to best overall performance.
 **5. Boosting Models**
 
 Models like XGBoost, LightGBM, and CatBoost offer high accuracy but require more tuning and training time. These remain strong candidates for future enhancement.
+
+
+
 
 
 
@@ -154,6 +169,9 @@ Images:- 1. [R² for each regression model](https://drive.google.com/file/d/1tmq
 
 
 
+
+
+
 ##### **#Conclusion**
 
 
@@ -176,6 +194,9 @@ The developed system can be easily integrated into real-world applications such 
 * Car resale websites
 * Loan and insurance agencies
 * Dealership pricing systems
+
+
+
 
 
 
@@ -225,6 +246,9 @@ There are several ways to expand this research:
 
 
 
+
+
+
 ##### **#References**
 
 
@@ -238,4 +262,5 @@ There are several ways to expand this research:
 
 
 * R. V. Kulkarni, K. Thopate, F. Khatib, A. Dixit, A. Ingle and A. Kanathia, "Enhancing Used Car Price Predictions with Machine Learning-Based Damage Detection," 2024 5th IEEE Global Conference for Advancement in Technology (GCAT), Bangalore, India, 2024, pp. 1-7, doi: 10.1109/GCAT62922.2024.10923877.
+
 
